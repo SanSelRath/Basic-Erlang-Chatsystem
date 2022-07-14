@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Geethu
+%%% @author Santhosh
 %%% @copyright (C) 2016, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 02. Dec 2016 6:50 PM
 %%%-------------------------------------------------------------------
 -module(manager).
--author("Geethu").
+-author("Santhosh").
 
 -export([start/0,create/2,loop/0,group/1,addgroupmem/2,removegroupmem/2,listmem/1]).
 
