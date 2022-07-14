@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Geethu
+%%% @author Santhosh
 %%% @copyright (C) 2016, <COMPANY>
 %%% @doc
 %%%
@@ -7,7 +7,7 @@
 %%% Created : 03. Dec 2016 2:04 PM
 %%%-------------------------------------------------------------------
 -module(worker).
--author("Geethu").
+-author("Santhosh").
 
 %% API
 -export([chat/0,gchat/1]).
